@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>price_cluster_2</RootNamespace>
+    <RootNamespace>PriceCluster2</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
@@ -17,6 +17,9 @@
 
   <ItemGroup>
     <None Update="Data\iris.data">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Data\test.html">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>

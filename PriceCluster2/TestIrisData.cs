@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace price_cluster_2
+namespace PriceCluster2
 {
     public static class TestIrisData
     {

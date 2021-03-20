@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.ML.Data;
 
-namespace price_cluster_2
+namespace PriceCluster2
 {
     public class IrisData
     {
